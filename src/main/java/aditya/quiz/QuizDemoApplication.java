@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VuQuizDemoApplication {
+public class QuizDemoApplication {
     public static void main(String[] args) {
-        SpringApplication.run(VuQuizDemoApplication.class, args);
+        SpringApplication.run(QuizDemoApplication.class, args);
     }
 }
